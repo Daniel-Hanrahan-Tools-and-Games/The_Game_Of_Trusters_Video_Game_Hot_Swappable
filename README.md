@@ -1,0 +1,2 @@
+# The_Game_Of_Trusters_Video_Game_Hot_Swappable
+A hot swappable video game adaptation of The_Game_Of_Trusters
