@@ -16,6 +16,12 @@ A hot swappable video game adaptation of The_Game_Of_Trusters
   <li>type this in terminal: rerun ruby The_Game_Of_Trusters_Video_Game_Adaptation_Hot_Swappable.rb</li>
 </ol>
 
+<h3>Interpreter Controls</h3>
+<ol>
+  <li>x then enter in terminal for exit when game is not running in interpreter</li>
+  <li>r then enter in terminal for restart game when game is not running in interpreter</li>
+</ol>
+
 <h3>How to run add-on mods</h3>
 <ul>
   <li>Add the mod file to your game directory</li>
