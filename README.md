@@ -29,6 +29,8 @@ Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters">Main Game Repository Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Hot_Swappable">Repository Page</a>
+
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
 
 
